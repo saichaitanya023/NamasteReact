@@ -1,0 +1,34 @@
+{
+  "name": "namasteereact",
+  "version": "1.0.0",
+  "description": "It is my practice session",
+  "keywords": [
+    "hello"
+  ],
+  "homepage": "https://github.com/saichaitanya023/NamasteReact#readme",
+  "bugs": {
+    "url": "https://github.com/saichaitanya023/NamasteReact/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saichaitanya023/NamasteReact.git"
+  },
+  "license": "ISC",
+  "author": "Sai chaitanya",
+  "type": "commonjs",
+  
+  "scripts": {
+    "test": "jest",
+    "start":"parcel index.html",
+    "build":"parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  }
+
+  
+}
